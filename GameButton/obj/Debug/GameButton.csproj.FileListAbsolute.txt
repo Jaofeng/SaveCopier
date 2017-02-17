@@ -1,0 +1,10 @@
+C:\WorkSpace\SaveCopier\GameButton\bin\Debug\GameButton.dll
+C:\WorkSpace\SaveCopier\GameButton\bin\Debug\GameButton.pdb
+D:\WorkSpace\PrivateCase\SaveCopier\bin\Debug\GameButton.dll
+D:\WorkSpace\PrivateCase\SaveCopier\bin\Debug\GameButton.pdb
+D:\WorkSpace\PrivateCase\SaveCopier\GameButton\obj\Debug\GameButton.dll
+D:\WorkSpace\PrivateCase\SaveCopier\GameButton\obj\Debug\GameButton.pdb
+C:\WorkSpace\SaveCopier\bin\Debug\GameButton.dll
+C:\WorkSpace\SaveCopier\bin\Debug\GameButton.pdb
+C:\WorkSpace\SaveCopier\GameButton\obj\Debug\GameButton.dll
+C:\WorkSpace\SaveCopier\GameButton\obj\Debug\GameButton.pdb
